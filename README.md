@@ -6,7 +6,7 @@ The program then reads in relevant data from a csv file and runs the k-means alg
 
 In this example, the dataset consists of a list of countries and shows each country's birthrate (per 1000) and life expectancy in 2008.
 
-After running the alorithm, the program outputs the following:
+After running the algorithm, the program outputs the following:
 
 1. The number of countries belonging to each cluster.
 
